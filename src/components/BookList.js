@@ -6,7 +6,7 @@ class BookList extends Component {
         return (
             <div className='book-list'>
                 <ul>
-                    <li>the way of kings</li>
+                    <li>the way of kin</li>
                     <li>the way of the wind</li>
                     <li>new man in here</li>
                 </ul>
